@@ -1,0 +1,2 @@
+https://colab.research.google.com/drive/1llTKKIf1lLzXu46uFqR9YO39k2T6rBWQ?usp=sharing
+https://www.kaggle.com/datasets/brsdincer/pulsar-classification-for-class-prediction
